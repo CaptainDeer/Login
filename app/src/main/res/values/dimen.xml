@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--SP dimen -->
+    <dimen name="button_radius">20sp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="et_height">40sp</dimen>
+    <dimen name="registry_tv_titles">50sp</dimen>
+
+</resources>

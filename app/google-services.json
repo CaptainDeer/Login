@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1211499554",
+    "project_id": "login-52fdf",
+    "storage_bucket": "login-52fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1211499554:android:045ec3496a68c2103ff67b",
+        "android_client_info": {
+          "package_name": "com.captaindeer.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1211499554-hgu9t7gsbmqe02o0tm5fpldkum64ohb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captaindeer.login",
+            "certificate_hash": "a9695a225406dd168d148bd8b346ee80e1ddf205"
+          }
+        },
+        {
+          "client_id": "1211499554-kqloaq102ra1d373om9iq12qmpsoff07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ylvmdUPS8A9O4BzMmsg0QTrfSfrWvg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1211499554-kqloaq102ra1d373om9iq12qmpsoff07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
